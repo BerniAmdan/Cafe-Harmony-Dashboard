@@ -11,4 +11,4 @@ The Cafe has experienced rapid growth and now faces the challenges of improving 
 - How can the café improve its stock management to avoid running out of popular items while also reducing overstocking?
 - Are there any locations or employee performance issues that require attention?
 
-Dashboard Interaction 
+Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.io/blob/main/Dashboard.png">View Dashboard</a>
