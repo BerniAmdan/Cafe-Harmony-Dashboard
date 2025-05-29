@@ -12,3 +12,11 @@ The Cafe has experienced rapid growth and now faces the challenges of improving 
 - Are there any locations or employee performance issues that require attention?
 
 Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.io/blob/main/Dashboard.png">View Dashboard</a>
+
+## Process
+- Cleaned data by removing duplicates, removing empty spaces, using the Proper function to make the data presentable, and formatting individual data to represent their types.
+- Formulas like Vlookup, Index/Match, and Text according to the dataset
+- Used DAX measures to calculate the number of transactions, total sales, and quantity sold.
+- Used PIVOT tables to summarise, analyse, explore, and present data quickly and interactively.
+- Used PIVOT tables to summarise, analyse, explore, and present data quickly and interactively.
+- Implemented slicers and a macro-enabled clear filter button for interactivity.
