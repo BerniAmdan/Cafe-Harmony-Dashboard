@@ -20,3 +20,6 @@ Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.
 - Used PIVOT tables to summarise, analyse, explore, and present data quickly and interactively.
 - Used PIVOT tables to summarise, analyse, explore, and present data quickly and interactively.
 - Implemented slicers and a macro-enabled clear filter button for interactivity.
+
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/eb996ced-c7f2-4b77-bcd2-aa0c8c8a5c49)
