@@ -23,3 +23,23 @@ Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.
 
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/eb996ced-c7f2-4b77-bcd2-aa0c8c8a5c49)
+
+## Project Insight
+- Muffin, Cappuccino, and Iced Tea were the overall top-3 performers, contributing 55% of the total sales for the 3 years under review.
+- Overall monthly sales peaked in August and trolled in November, while individual locations over the years showed varying patterns of sales.
+- A total of 1000 customers served, with an average age of 42, and females being the top contributors to sales with 53%.
+- Age-Range 26-35 topped the chat, contributing £2,762 to total sales.
+- Some inventories were exceeding Ideal stock, while others were well lower Ideal stock levels. 
+- Employees' performance across locations outperformed their averages on a departmental level.
+- 66% possible customer churn with negative and neutral sentiments, and 34% positive feedback.
+- 70% "Could be better" comments as opposed to 30% "Great product" comments.
+- 58% below 4-star rating as opposed to 42% 4-star and above rating.
+
+## Recommendations
+- Focus marketing & promoting top performers: Allocating more marketing budget to promote combo deals or loyalty programs featuring items like muffin and Cappuccino.
+- Optimize inventory for top-sellers: With a 55% combined contribution, Muffin, Cappuccino, and Iced Tea must have priority in stock management.
+- Seasonal or targeted promotion: Consider seasonal marketing campaigns (e.g, summer promotions) for Iced Tea because of fluctuations in ranking.
+- Leveraging female buying power: Run promotions or bundles specifically targeting women (e.g, “Ladies’ Treats” combos, social media campaigns during key dates like Women’s Day, Mother’s Day).
+- Age-responsive product development: Use stable performance across age ranges to introduce broad-appeal products with different branding and marketing (e.g. 26-35: Emphasize style, Energy, and eco-conscious packaging, 36-45: Highlight value, wellness, family convenience.
+- Use data to set smarter targets: Consider adjusting KPIs slightly upward but realistically, and also, explore cross-training to build flexibility and resilience in operations (i.e, moving employees across departments when need be).
+ 
