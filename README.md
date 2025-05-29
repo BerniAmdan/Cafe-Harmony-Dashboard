@@ -1,2 +1,3 @@
-# Cafe-Harmony-Dashboard
-A Cafe which has experienced rapid growth and now faces the challenges of improving its overall operational efficiency and customer experience.  Data has been analyzed by first preprocessing, cleaning, visualizing, drawing insights and then recommendations.
+# Cafe-Harmony-Operations and Customer Analysis (Interactive Dashboard created using MS Excel)
+# Project Objective
+The Cafe has experienced rapid growth and now faces the challenges of improving its overall operational efficiency and customer experience. The company wants to address THIS issue by analyzing the 2014-2016 dataset to gain insight for further decision-making.
